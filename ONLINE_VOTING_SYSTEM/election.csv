@@ -1,0 +1,9 @@
+ElectionID,Electiondate,Type,Details,Resultdate
+E001,2023-01-01, LokSabha ,xxxxxxx,2023-01-08
+E002,2023-01-02,RajyaSabha,xxxxxxx,2023-01-09
+E003,2023-01-03,State_Legislative_Assemblies,xxxxxxx,2023-01-10
+E004,2023-01-04,State_Legislative_Councils,xxxxxxx,2023-01-11
+E005,2023-01-05,Corporation,xxxxxxx,2023-01-12
+E006,2023-01-06,Municipality,xxxxxxx,2023-01-13
+E007,2023-01-07,Panchayats,xxxxxxx,2023-01-14
+E008,2023-01-08,Student_Elections,xxxxxxx,2023-01-15
